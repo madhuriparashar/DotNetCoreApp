@@ -1,0 +1,224 @@
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\testhost.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\testhost.exe
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\xunit.runner.reporters.netcoreapp10.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\xunit.runner.utility.netcoreapp10.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\CoreWebAPIAzure.Test.deps.json
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\CoreWebAPIAzure.Test.runtimeconfig.json
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\CoreWebAPIAzure.Test.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\CoreWebAPIAzure.Test.pdb
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\Microsoft.TestPlatform.Utilities.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\xunit.abstractions.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\xunit.assert.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\xunit.core.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\xunit.execution.dotnet.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\obj\Debug\net7.0\CoreWebAPIAzure.Test.csproj.AssemblyReference.cache
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\obj\Debug\net7.0\CoreWebAPIAzure.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\obj\Debug\net7.0\CoreWebAPIAzure.Test.AssemblyInfoInputs.cache
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\obj\Debug\net7.0\CoreWebAPIAzure.Test.AssemblyInfo.cs
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\obj\Debug\net7.0\CoreWebAPIAzure.Test.csproj.CoreCompileInputs.cache
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\obj\Debug\net7.0\CoreWebAPIAzure.Test.csproj.CopyComplete
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\obj\Debug\net7.0\CoreWebAPIAzure.Test.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\obj\Debug\net7.0\refint\CoreWebAPIAzure.Test.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\obj\Debug\net7.0\CoreWebAPIAzure.Test.pdb
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\obj\Debug\net7.0\CoreWebAPIAzure.Test.genruntimeconfig.cache
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\obj\Debug\net7.0\ref\CoreWebAPIAzure.Test.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\CoverletSourceRootsMapping
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\CoreWebAPIAzure.deps.json
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\CoreWebAPIAzure.runtimeconfig.json
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\appsettings.Development.json
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\appsettings.json
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\CoreWebAPIAzure.exe
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\CoreWebAPIAzure.dll
+C:\AzureWithDotnetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\CoreWebAPIAzure.pdb
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\CoverletSourceRootsMapping
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\appsettings.Development.json
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\appsettings.json
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\testhost.exe
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\testhost.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\xunit.runner.reporters.netcoreapp10.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\xunit.runner.utility.netcoreapp10.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\CoreWebAPIAzure.deps.json
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\CoreWebAPIAzure.runtimeconfig.json
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\CoreWebAPIAzure.exe
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\CoreWebAPIAzure.Test.deps.json
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\CoreWebAPIAzure.Test.runtimeconfig.json
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\CoreWebAPIAzure.Test.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\CoreWebAPIAzure.Test.pdb
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\Microsoft.TestPlatform.Utilities.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\xunit.abstractions.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\xunit.assert.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\xunit.core.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\xunit.execution.dotnet.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\CoreWebAPIAzure.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\bin\Debug\net7.0\CoreWebAPIAzure.pdb
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\obj\Debug\net7.0\CoreWebAPIAzure.Test.csproj.AssemblyReference.cache
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\obj\Debug\net7.0\CoreWebAPIAzure.Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\obj\Debug\net7.0\CoreWebAPIAzure.Test.AssemblyInfoInputs.cache
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\obj\Debug\net7.0\CoreWebAPIAzure.Test.AssemblyInfo.cs
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\obj\Debug\net7.0\CoreWebAPIAzure.Test.csproj.CoreCompileInputs.cache
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\obj\Debug\net7.0\CoreWebAPIAzure.Test.csproj.CopyComplete
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\obj\Debug\net7.0\CoreWebAPIAzure.Test.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\obj\Debug\net7.0\refint\CoreWebAPIAzure.Test.dll
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\obj\Debug\net7.0\CoreWebAPIAzure.Test.pdb
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\obj\Debug\net7.0\CoreWebAPIAzure.Test.genruntimeconfig.cache
+D:\JOb2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\obj\Debug\net7.0\ref\CoreWebAPIAzure.Test.dll
