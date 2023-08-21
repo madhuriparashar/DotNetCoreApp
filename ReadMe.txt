@@ -25,6 +25,13 @@ Devops has many features-
 2. 
 
 
+21st August
+https://dotnetplaybook.com/build-test-and-deploy-a-rest-api-with-azure-devops/
+
+git status
+git add .
+git commit -m 'Comments"
+git push origin main
 
 
 
