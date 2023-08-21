@@ -15,3 +15,23 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/ygoyal3/DotNetCoreAp.git
 git push -u origin main
+
+------------------------------------------------------
+16th Aug 2023
+https://dotnetplaybook.com/build-test-and-deploy-a-rest-api-with-azure-devops/
+
+Devops has many features-
+1. pipeline is  a delegation model to notify to any repository
+2. 
+
+
+
+
+
+
+
+
+
+
+
+
