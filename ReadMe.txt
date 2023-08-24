@@ -1,3 +1,5 @@
+URL: https://dotnetplaybook.com/build-test-and-deploy-a-rest-api-with-azure-devops/
+
 What is the architecture of the Application?
     --Core web API solution --Done
     --Unit Test solution --Done
@@ -18,7 +20,7 @@ git push -u origin main
 
 ------------------------------------------------------
 16th Aug 2023
-https://dotnetplaybook.com/build-test-and-deploy-a-rest-api-with-azure-devops/
+
 
 Devops has many features-
 1. pipeline is  a delegation model to notify to any repository
