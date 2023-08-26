@@ -26,7 +26,7 @@ Devops has many features-
 1. pipeline is  a delegation model to notify to any repository
 2. 
 
-
+------------------------------------------------------
 21st August
 https://dotnetplaybook.com/build-test-and-deploy-a-rest-api-with-azure-devops/
 
@@ -34,7 +34,8 @@ git status
 git add .
 git commit -m 'Comments"
 git push origin main
-
+------------------------------------------------------
+26th Aug 2023
 
 
 

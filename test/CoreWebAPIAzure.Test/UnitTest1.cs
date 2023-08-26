@@ -12,6 +12,6 @@ public class UnitTest1
     public void Test1()
     {   
         var test = valController.Get(1);                            //Act
-        Assert.Equal("YuktiMM1", test);
+        Assert.Equal("Yukti", test);
     }
 }
