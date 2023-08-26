@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CoreWebAPIAzure.Test
-build_property.ProjectDir = D:\Job2023\Azure 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\
+build_property.ProjectDir = D:\Job2023\Azure 10PM Batch 2023\AzureWithDotNetCore\AzureWithDotNetCore\test\CoreWebAPIAzure.Test\

@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\JOb2023\\Azure 2023\\AzureWithDotNetCore\\AzureWithDotNetCore\\src\\CoreWebAPIAzure\\CoreWebAPIAzure.csproj",
+      "projectUniqueName": "D:\\Job2023\\Azure 10PM Batch 2023\\AzureWithDotNetCore\\AzureWithDotNetCore\\src\\CoreWebAPIAzure\\CoreWebAPIAzure.csproj",
       "projectName": "CoreWebAPIAzure",
-      "projectPath": "D:\\JOb2023\\Azure 2023\\AzureWithDotNetCore\\AzureWithDotNetCore\\src\\CoreWebAPIAzure\\CoreWebAPIAzure.csproj",
+      "projectPath": "D:\\Job2023\\Azure 10PM Batch 2023\\AzureWithDotNetCore\\AzureWithDotNetCore\\src\\CoreWebAPIAzure\\CoreWebAPIAzure.csproj",
       "packagesPath": "C:\\Users\\madhuri\\.nuget\\packages\\",
-      "outputPath": "D:\\JOb2023\\Azure 2023\\AzureWithDotNetCore\\AzureWithDotNetCore\\src\\CoreWebAPIAzure\\obj\\",
+      "outputPath": "D:\\Job2023\\Azure 10PM Batch 2023\\AzureWithDotNetCore\\AzureWithDotNetCore\\src\\CoreWebAPIAzure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\madhuri\\AppData\\Roaming\\NuGet\\NuGet.Config",
