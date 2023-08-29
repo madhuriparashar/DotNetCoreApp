@@ -35,12 +35,12 @@ git add .
 git commit -m 'Comments"
 git push origin main
 ------------------------------------------------------
-26th Aug 2023
+29th Aug 2023
 
+Continuous Integration is running successfully withunit test .
 
-
-
-
+-> Azure Artifacts (Packaging)
+publish + Zip 
 
 
 
